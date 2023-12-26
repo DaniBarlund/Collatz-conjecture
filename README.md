@@ -15,6 +15,20 @@ then recursive this until x is equal to one when it will end in that 4-2-1 loop.
 
 For example take a number 5: 3*5+1=16, 16/2=8, 8/2=4, 4/2=2, 2/2=1. Then we have hit one and are in the loop.
 
+## How to use it
+
+1. Download Collatz Conjecture GUI.pyw and Function.py.
+2. Run Collatz Conjecture from cmd with python "Collatz Conjecture GUI.pyw"
+3. Give a starting value of positive integer and press **Input**
+4. **Add** adds new line to the plot
+5. **Update** updates plots if **Plot styles** or **Plot Colors** Are changed
+
+### Example with the input value of 5
+[Value of 5](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/value-of-5.png?raw=true)
+
+### Example with multiple values**
+[Multiple values](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/multiple-values.png?raw=true)
+
 ## How was the program done?
 
 Gui was made with tkinter in python because it seemed to be fairly easy for a beginner to pick up. It had its pros and cons, mostly ran into trouble with .grid()
