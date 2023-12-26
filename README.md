@@ -1,4 +1,4 @@
-# Collatz Conjecture
+# Collatz Conjecture - Done in 2020
 
 ## Why make the project?
 
