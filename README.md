@@ -24,10 +24,10 @@ For example take a number 5: 3*5+1=16, 16/2=8, 8/2=4, 4/2=2, 2/2=1. Then we have
 5. **Update** updates plots if **Plot styles** or **Plot Colors** Are changed
 
 ### Example with the input value of 5
-[Value of 5](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/value-of-5.png?raw=true)
+![Value of 5](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/value-of-5.png?raw=true)
 
 ### Example with multiple values**
-[Multiple values](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/multiple-values.png?raw=true)
+![Multiple values](https://github.com/DaniBarlund/Collatz-conjecture/blob/main/photos/multiple-values.png?raw=true)
 
 ## How was the program done?
 
